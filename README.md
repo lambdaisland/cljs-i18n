@@ -1,3 +1,6 @@
+This is a temporary fork which adds deps.edn so this library can be consumed by
+tools.deps directly, because the version on Clojars is currently outdated.
+
 # cljs-i18n
 
 ## Install
